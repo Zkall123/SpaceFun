@@ -1,0 +1,2 @@
+﻿  main.cpp
+E:\OneDrive\Dokumente\Programing\C++\FirstGames\SFML\SpaceFun(fertig)\SpaceFun\main.cpp(1,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "SFML/Graphics.hpp": No such file or directory
